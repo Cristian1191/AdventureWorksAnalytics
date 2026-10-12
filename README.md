@@ -59,7 +59,7 @@ El reporte está organizado en cuatro páginas analíticas. Actualmente, se han 
 
 Presenta una visión general del rendimiento comercial mediante indicadores clave y visualizaciones que permiten identificar los principales resultados de ventas.
 
-![Dashboard de resumen ejecutivo](images/01-resumen-ejecutivo.png)
+![Resumen Ejecutivo](Images/Resumen%20Ejecutivo.png)
 
 ### 5.2. Análisis temporal
 
@@ -71,13 +71,13 @@ Se orientará al análisis de la evolución de las ventas por mes y trimestre, a
 
 Permite examinar el rendimiento comercial de los productos, identificar los principales contribuyentes a las ventas y comparar resultados entre productos y categorías.
 
-![Dashboard de análisis de productos](images/03-analisis-productos.png)
+![Análisis de Productos](Images/Analisis%20de%20Productos.png)
 
 ### 5.4. Análisis de clientes
 
 Permite explorar la contribución de los clientes a las ventas, identificar los principales clientes y tiendas, y comparar su rendimiento comercial.
 
-![Dashboard de análisis de clientes](images/04-analisis-clientes.png)
+![Análisis de Clientes](Images/Analisis%20de%20Clientes.png)
 
 ## 6. Herramientas utilizadas
 
